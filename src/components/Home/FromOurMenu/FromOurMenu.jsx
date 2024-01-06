@@ -7,7 +7,7 @@ const FromOurMenu = () => {
             <div className="bg-[linear-gradient(to_right_bottom,black,rgba(16,71,52,0.8)),url('/src/assets/home/featured.jpg')] bg-cover">
             <div className="md:py-24">
             <SectionTitle
-            subHeading={'Check it out'} heading={'Form Our Menu'}></SectionTitle>
+            subHeading={'Check it out'} heading={'Form Our Menu'} textColor={'text-white'}></SectionTitle>
 
             <div className="md:flex text-white items-center justify-center text-center md:text-start gap-6 md:px-32">
                 <div>
